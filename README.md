@@ -22,7 +22,7 @@ Also, we would love to express our sincere thanks to [Laboratoire Informatique d
 
 * Flower <=0.18.0, >= 0.17.0
 
-* Speechbrain <= 0.5.11
+* Speechbrain <= 0.5.15
 
 * Pytorch >= 1.5.0
 
